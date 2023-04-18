@@ -1,1 +1,1 @@
-# 2D-shock-tube-solver
+# 2D Shock Tube Solver
