@@ -1,1 +1,1 @@
-# 2D Shock Tube Solver
+# aa214-2d-shock-tube-solver
